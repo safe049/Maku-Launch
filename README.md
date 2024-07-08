@@ -15,3 +15,4 @@
 
   
 FUNCTIONS: Custom Categorys , Add APPs yourself
+Able to save the changes
