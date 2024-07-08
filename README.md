@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/safe049/Maku-Linux-Applications-Launcher">
-    <img src="images/background.jpg" alt="Logo" width="80" height="80">
+    <img src="images/background.jpg" alt="Logo" width="800" height="600">
   </a>
 
   <h3 align="center">Maku Linux Applications Launcher</h3>
