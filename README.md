@@ -14,5 +14,5 @@
     <h3 align="center">A Simple and Smooth Linux APP launcher based on Qt</h3>
 
   
-FUNCTIONS: Custom Categorys , Add APPs yourself
+FUNCTIONS: Custom Categorys , Add APPs yourself ,
 Able to save the changes
