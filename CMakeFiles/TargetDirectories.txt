@@ -1,0 +1,9 @@
+/home/dynamo/MAKU/build/unknown-Release/CMakeFiles/MAKU.dir
+/home/dynamo/MAKU/build/unknown-Release/CMakeFiles/edit_cache.dir
+/home/dynamo/MAKU/build/unknown-Release/CMakeFiles/rebuild_cache.dir
+/home/dynamo/MAKU/build/unknown-Release/CMakeFiles/list_install_components.dir
+/home/dynamo/MAKU/build/unknown-Release/CMakeFiles/install.dir
+/home/dynamo/MAKU/build/unknown-Release/CMakeFiles/install/local.dir
+/home/dynamo/MAKU/build/unknown-Release/CMakeFiles/install/strip.dir
+/home/dynamo/MAKU/build/unknown-Release/CMakeFiles/MAKU_autogen_timestamp_deps.dir
+/home/dynamo/MAKU/build/unknown-Release/CMakeFiles/MAKU_autogen.dir

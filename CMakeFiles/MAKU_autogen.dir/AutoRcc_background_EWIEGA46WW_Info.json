@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/dynamo/MAKU/build/unknown-Release/MAKU_autogen",
+	"CMAKE_BINARY_DIR" : "/home/dynamo/MAKU/build/unknown-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/dynamo/MAKU/build/unknown-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/dynamo/MAKU",
+	"CMAKE_SOURCE_DIR" : "/home/dynamo/MAKU",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/dynamo/MAKU/build/unknown-Release/MAKU_autogen/include",
+	"INPUTS" : [ "/home/dynamo/MAKU/images/background.jpg" ],
+	"LOCK_FILE" : "/home/dynamo/MAKU/build/unknown-Release/CMakeFiles/MAKU_autogen.dir/AutoRcc_background_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "background" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_background.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/dynamo/MAKU/build/unknown-Release/CMakeFiles/MAKU_autogen.dir/AutoRcc_background_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/dynamo/MAKU/background.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
